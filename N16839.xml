@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:021678_0000_0FB50F43E1CAECB8"/>
-            <pb facs="tcp:021678_0001_0FB50F48E9005A68" rendition="simple:additions"/>
+            <pb facs="unknown:021678_0000_0FB50F43E1CAECB8"/>
+            <pb facs="unknown:021678_0001_0FB50F48E9005A68"
+                rendition="simple:additions"/>
             <p>THE BETTER SORT: OR, The GIRL of SPIRIT.</p>
             <p>AN OPERATICAL, COMICAL FARCE:</p>
             <q>
@@ -133,15 +134,15 @@
             <p>MDCCLXXXIX.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:021678_0002_0FB50F4C234EECD8"/>
+            <pb facs="unknown:021678_0002_0FB50F4C234EECD8"/>
             <head>PREFACE.</head>
             <p>THE thirſt for Novelty is unextinguiſhable. The human mind is of ſuch exquiſite ſuſceptibility, as to be inſatiable to variety; hence it is the good peo<g ref="char:EOLhyphen"/>ple of this town have more than once diſcovered their avidity to gratify this paſſion or affection by inſtantly ſnatching up newſpapers, magazines, and even <hi>farces.</hi> Some people may perhaps attribute this eagerneſs in purſuit of literary entertainment to a <hi>love of ſcandal.</hi> With what greater degree of truth, might this be im<g ref="char:EOLhyphen"/>puted to a deſire of ſomething <hi>new!</hi>—I have the charity to ſuppoſe this may be one of the cauſes which prompt the publick to buy new publications, not to ſay any thing of encouraging the Art of Printing—the boaſt of Americans—the palladium of liberty—and the cream of the Conſtitution. Sorry I am to add that this eager ſolicitude in a generous publick has oftentimes been ill requited; it has been requited with a farcical repreſentation of a few heterogeneous incidents, thrown together with <hi>injudicious haſte,</hi> and prompted ſolely by the lucre of gain—a few private anecdotes have been inſerted in theſe pages, but without inſtruction, without even amuſement for their aim, they have obtained, for the reaſon above cited, a temporary reception; but not deſerving a repoſitory in the library of Curioſity, or even in the memory of Slander, they have ſilently rolled down
-<pb n="iv" facs="tcp:021678_0003_0FB50F4D68F66F58"/>
+<pb n="iv" facs="unknown:021678_0003_0FB50F4D68F66F58"/>
 the ſtream of time into the dull lake of oblivion. The dramatick ſtyle is univerſally allowed to be a uſeful channel for conveying inſtruction to all claſſes of citi<g ref="char:EOLhyphen"/>zens—and though a <hi>new play</hi> muſt neceſſarily looſe a great part of its effect, becauſe the <hi>advantage of action</hi>
 is ſhut out, yet a candid mind will doubtleſs and nev<g ref="char:EOLhyphen"/>ertheleſs <hi>receive the ſeed into good ground</hi>; the <hi>good humour</hi> of the reader muſt therefore ſupply the <hi>comick humour</hi> of an actor. Whence it appears that a <hi>Farci<g ref="char:EOLhyphen"/>cal Opera</hi> preſented to the American ſtates at this junc<g ref="char:EOLhyphen"/>ture, muſt be a very <hi>uſeful work.</hi> The following <hi>work,</hi> therefore, is now offered to the candour, and for the amuſement and edification of the credulous publick. A publick whom I call <hi>credulous</hi> becauſe they have generally purchaſed books of this kind before they took the trouble to examine them. If then they have been cheated by the empty ſound of a title, the queſtion is, <hi>How ought a Farce to be written.</hi> I can anſwer the queſtion in no better way than by encouraging the reader diligently to peruſe, what he now ſeeth before him. In a more eſpecial manner will his good nature be awakened, when he finds that the converſation of the parties tends to ſome general point, that the <hi>unities</hi> of the Drama are not altogether violated, and that a PLOT is purſued and brought about, all which muſt provoke his patience to read theſe fifty pages clean through.</p>
          </div>
          <div type="prologue">
-            <pb facs="tcp:021678_0004_0FB50F4FB6317960"/>
+            <pb facs="unknown:021678_0004_0FB50F4FB6317960"/>
             <head>PROLOGUE. In the <hi>CHARACTER of MR. SENTENTIOUS.</hi>
             </head>
             <lg>
@@ -174,7 +175,7 @@ is ſhut out, yet a candid mind will doubtleſs and nev<g ref="char:EOLhyphen"/>
                <l>"Stop child," methinks the MATRON grave, replies,</l>
                <l>(From a long life's experience render'd wiſe)</l>
                <l>
-                  <pb n="vi" facs="tcp:021678_0005_0FB50F51362D1460"/>"PLAYS (were there ſome committee to o'erſee 'em)</l>
+                  <pb n="vi" facs="unknown:021678_0005_0FB50F51362D1460"/>"PLAYS (were there ſome committee to o'erſee 'em)</l>
                <l>"Might be as uſeful as a long <hi>Te Deum</hi>;</l>
                <l>"Thus to attend the labour'd works of bards,</l>
                <l>"PLAYS might improve the time, that's ſpent at cards,</l>
@@ -224,7 +225,7 @@ is ſhut out, yet a candid mind will doubtleſs and nev<g ref="char:EOLhyphen"/>
                <l>"Then, how convenient for an—aſſignation."</l>
             </lg>
             <lg>
-               <pb n="vii" facs="tcp:021678_0006_0FB50F538A6F4F78"/>
+               <pb n="vii" facs="unknown:021678_0006_0FB50F538A6F4F78"/>
                <l>O impotence of fools! to whom 'tis given</l>
                <l>To countermine the choiceſt gifts of Heaven.</l>
                <l>At ſocial joys, their indiſcretion ſtrikes;</l>
@@ -263,7 +264,7 @@ is ſhut out, yet a candid mind will doubtleſs and nev<g ref="char:EOLhyphen"/>
             </lg>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:021678_0007_0FB50F55E48040E8"/>
+            <pb facs="unknown:021678_0007_0FB50F55E48040E8"/>
             <head>PERSONS of the DRAMA.</head>
             <list>
                <head>MEN.</head>
@@ -291,7 +292,7 @@ is ſhut out, yet a candid mind will doubtleſs and nev<g ref="char:EOLhyphen"/>
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:021678_0008_0FB50F574CED47C8"/>
+            <pb facs="unknown:021678_0008_0FB50F574CED47C8"/>
             <head>THE BETTER SORT, <hi>&amp;c.</hi>
             </head>
             <div n="1" type="scene">
@@ -314,7 +315,7 @@ is ſhut out, yet a candid mind will doubtleſs and nev<g ref="char:EOLhyphen"/>
                   <p>Two rooms full of company at once!</p>
                </sp>
                <sp>
-                  <pb n="10" facs="tcp:021678_0009_0FB50F5BA06E1020"/>
+                  <pb n="10" facs="unknown:021678_0009_0FB50F5BA06E1020"/>
                   <speaker>MRS.</speaker>
                   <p>You have no ſoul for grandeur, Mr. <hi>Sententious.</hi> I mean to be remarked for ſplendour and luxury; theſe are the ſteps by which I deſign to aſcend to the pinnacle of politeneſs and the tip top of the better<g ref="char:EOLhyphen"/>moſt genii. My fortune was told me that I ſhould be a lady.</p>
                </sp>
@@ -350,7 +351,7 @@ is ſhut out, yet a candid mind will doubtleſs and nev<g ref="char:EOLhyphen"/>
                   <p>In a word, my dear, the deſires of extravagance are no more to be filled up than the ocean.</p>
                </sp>
                <sp>
-                  <pb n="11" facs="tcp:021678_0010_0FB50F5E5E5FB608"/>
+                  <pb n="11" facs="unknown:021678_0010_0FB50F5E5E5FB608"/>
                   <speaker>MRS.</speaker>
                   <p>In a word, my dear, the deſires of avarice are worſe, they can no more be filled up than the bot<g ref="char:EOLhyphen"/>tomleſs pit.</p>
                </sp>
@@ -398,7 +399,7 @@ is ſhut out, yet a candid mind will doubtleſs and nev<g ref="char:EOLhyphen"/>
                   <p>Your brain is ever fertile in ſchemes of extrava<g ref="char:EOLhyphen"/>gance. It is not every body that would go to the expenſe that I do—You might therefore relinquiſh a little of—</p>
                </sp>
                <sp>
-                  <pb n="12" facs="tcp:021678_0011_0FB50F626D1941F0"/>
+                  <pb n="12" facs="unknown:021678_0011_0FB50F626D1941F0"/>
                   <speaker>MRS.</speaker>
                   <p>Not every body! what fools <hi>them is!</hi>
                   </p>
@@ -433,7 +434,7 @@ is ſhut out, yet a candid mind will doubtleſs and nev<g ref="char:EOLhyphen"/>
                <sp>
                   <speaker>MR.</speaker>
                   <p>O that I could teach you to reflect one minute! How often have I expatiated on the virtues and hap<g ref="char:EOLhyphen"/>py
-<pb n="13" facs="tcp:021678_0012_0FB50F64090E4C60"/>
+<pb n="13" facs="unknown:021678_0012_0FB50F64090E4C60"/>
 conſequences of prudence, and ſtill you are deaf to the voice of economy.</p>
                </sp>
                <sp>
@@ -469,7 +470,7 @@ conſequences of prudence, and ſtill you are deaf to the voice of economy.</p>
                   <p>When people of common life get ſomething <hi>fore<g ref="char:EOLhyphen"/>handed</hi> in the world, it certainly diſcovers a little mind to ſtrive to emulate the extravagance of their ſuperi<g ref="char:EOLhyphen"/>ours.</p>
                </sp>
                <sp>
-                  <pb n="14" facs="tcp:021678_0013_0FB50F658C7600A0"/>
+                  <pb n="14" facs="unknown:021678_0013_0FB50F658C7600A0"/>
                   <speaker>MRS.</speaker>
                   <p>Come, my love, no more <hi>words.</hi>
                   </p>
@@ -511,7 +512,7 @@ conſequences of prudence, and ſtill you are deaf to the voice of economy.</p>
                                     <l>Soft as the ſong of any ſaint?</l>
                                  </sp>
                                  <sp>
-                                    <pb n="15" facs="tcp:021678_0014_0FB50F6747285620"/>
+                                    <pb n="15" facs="unknown:021678_0014_0FB50F6747285620"/>
                                     <speaker>HUSBAND.</speaker>
                                     <l>It is thy huſband's gentle voice you hear.</l>
                                  </sp>
@@ -542,7 +543,7 @@ conſequences of prudence, and ſtill you are deaf to the voice of economy.</p>
                <stage>Exeunt.</stage>
             </div>
             <div n="2" type="scene">
-               <pb n="16" facs="tcp:021678_0015_0FB50F6BA70D21A0"/>
+               <pb n="16" facs="unknown:021678_0015_0FB50F6BA70D21A0"/>
                <head>SCENE II.</head>
                <stage>
                   <hi>A</hi> ROOM <hi>below</hi> STAIRS.</stage>
@@ -584,7 +585,7 @@ conſequences of prudence, and ſtill you are deaf to the voice of economy.</p>
                <sp>
                   <speaker>MIRA.</speaker>
                   <p>From you, my love, all aſſurances of friendſhip are vain. How unfortunate is my ſituation! To be debarred the company of the youth of my affections,
-<pb n="17" facs="tcp:021678_0016_0FB50F6E5C7B7D18"/>
+<pb n="17" facs="unknown:021678_0016_0FB50F6E5C7B7D18"/>
 and ſubject to the caprice of an unnatural father—of a father who places his happineſs in the accumula<g ref="char:EOLhyphen"/>tion of riches, and deems every man unworthy his eſteem, whoſe diſpoſition is not equally parſimoni<g ref="char:EOLhyphen"/>ous. For this reaſon I begin to ſuſpect the inten<g ref="char:EOLhyphen"/>tions of old <hi>Alonzo.</hi> I ſee him daily cloſeted with my father, and indeed he has been uncommonly polite to me, of late. What a ſorry plight muſt a poor girl be in, who has the misfortune to have a rich father, when any man who fears to become a bankrupt may repair his conſumptive purſe by falling in love with her—money—I love, and I acknowledge I have long loved the engaging <hi>Harry,</hi> and yet am conſtrain<g ref="char:EOLhyphen"/>ed, through fear, to conceal my paſſion from my par<g ref="char:EOLhyphen"/>ent. My ſpirits alone can preſerve me.</p>
                   <q>
                      <floatingText xml:lang="unk">
@@ -612,7 +613,7 @@ and ſubject to the caprice of an unnatural father—of a father who places his 
                   <p>I believe theſe men are all Turks, and think wom<g ref="char:EOLhyphen"/>en have no ſouls: But I will let them all ſee that <hi>I</hi> have a ſoul—I am determined to exerciſe my <hi>ſpirit</hi>—reſolution is the only ſpecifick in my deſperate caſe.</p>
                </sp>
                <sp>
-                  <pb n="18" facs="tcp:021678_0017_0FB50F70ACC3F9E8"/>
+                  <pb n="18" facs="unknown:021678_0017_0FB50F70ACC3F9E8"/>
                   <speaker>JENNY.</speaker>
                   <p>It gives me great pleaſure, my dear, to hear you talk with ſo much ſpirit, only ſtand to it, and I'll be bound to lay A PLOT that will inſure your felicity—Your father and <hi>Alonzo,</hi> I think, will be here this e<g ref="char:EOLhyphen"/>vening.</p>
                </sp>
@@ -638,7 +639,7 @@ and ſubject to the caprice of an unnatural father—of a father who places his 
                   <p>LADIES, I beg your pardon for detaining you ſo long—I had ſome ſmall matters to ſee to, which was the occaſion of my not waiting upon you immediately on your arrival.</p>
                </sp>
                <sp>
-                  <pb n="19" facs="tcp:021678_0018_0FB50F722AF4EED8"/>
+                  <pb n="19" facs="unknown:021678_0018_0FB50F722AF4EED8"/>
                   <speaker>JENNY.</speaker>
                   <p>Make no apology, Madam.</p>
                </sp>
@@ -676,7 +677,7 @@ and ſubject to the caprice of an unnatural father—of a father who places his 
                      <floatingText xml:lang="unk">
                         <body>
                            <div type="duet">
-                              <pb n="20" facs="tcp:021678_0019_0FB50F73E1412F00"/>
+                              <pb n="20" facs="unknown:021678_0019_0FB50F73E1412F00"/>
                               <head>DUET. The <hi>FATHER</hi> and the <hi>DAUGHTER.</hi>
                               </head>
                               <sp>
@@ -696,7 +697,7 @@ and ſubject to the caprice of an unnatural father—of a father who places his 
                                  <l>And the fickleſome gambols of youth are all flown.</l>
                               </sp>
                               <sp>
-                                 <pb n="21" facs="tcp:021678_0020_0FB50F75EA5B5E58"/>
+                                 <pb n="21" facs="unknown:021678_0020_0FB50F75EA5B5E58"/>
                                  <speaker>DAUGHTER.</speaker>
                                  <l>
                                     <hi>Alonzo!</hi> the miſer I cannot abide,</l>
@@ -723,7 +724,7 @@ and ſubject to the caprice of an unnatural father—of a father who places his 
                                  <l>I fear your advice and your counſel you waſte,</l>
                                  <l>For av'rice and dotage are not to my taſte.</l>
                                  <l>
-                                    <pb n="22" facs="tcp:021678_0021_0FB50F77850E72E8"/>In ſhort, ere I'll wed ſuch a fellow as he,</l>
+                                    <pb n="22" facs="unknown:021678_0021_0FB50F77850E72E8"/>In ſhort, ere I'll wed ſuch a fellow as he,</l>
                                  <l>A virgin Ill live to E—ter—ni—ty.</l>
                               </sp>
                               <sp>
@@ -782,7 +783,7 @@ and ſubject to the caprice of an unnatural father—of a father who places his 
                      <floatingText xml:lang="unk">
                         <body>
                            <div type="song">
-                              <pb n="23" facs="tcp:021678_0022_0FB50F7EEE1030C8"/>
+                              <pb n="23" facs="unknown:021678_0022_0FB50F7EEE1030C8"/>
                               <head>SONG. Maid of the Mill.</head>
                               <lg>
                                  <head>I.</head>
@@ -826,7 +827,7 @@ and ſubject to the caprice of an unnatural father—of a father who places his 
                </sp>
             </div>
             <div n="5" type="scene">
-               <pb n="24" facs="tcp:021678_0023_0FB50F7FE2814080"/>
+               <pb n="24" facs="unknown:021678_0023_0FB50F7FE2814080"/>
                <head>SCENE V.</head>
                <stage>
                   <hi>Enter</hi> CAPTAIN FLASH.</stage>
@@ -860,7 +861,7 @@ and ſubject to the caprice of an unnatural father—of a father who places his 
                <sp>
                   <speaker>YORICK.</speaker>
                   <p>Lord! Miſs <hi>Jenny</hi>—none of your tales about ſchool boys—you can't hold a candle to me for tell<g ref="char:EOLhyphen"/>ing
-<pb n="25" facs="tcp:021678_0024_0FB50F81414FE060"/>
+<pb n="25" facs="unknown:021678_0024_0FB50F81414FE060"/>
 a ſtory—Only hear me tell about our <hi>ſleighing frol<g ref="char:EOLhyphen"/>ick</hi>—As ſoon as we got over the Neck, going up <hi>Roxbury hill,</hi> who ſhould we meet but a hack full of your <hi>bloods,</hi> of the firſt <hi>water,</hi> red hot from the <hi>Punch-bowl</hi>—Well—down they come, full tilt—Our dri<g ref="char:EOLhyphen"/>ver, in turning out, cut up his nags, and away we went, <hi>Jehu</hi> like, into the ſnow drift, and turn'd the ſleigh bottom up, as clean as a whiſtle, five girls and three fellows—"O lud! O lud!" that was the ſong, ſuch ſqueaking, and hollowing, and bawling, and yelling, and ſighing, and laughing—and the poor la<g ref="char:EOLhyphen"/>dies had nothing to do but to travel to the ſleigh a<g ref="char:EOLhyphen"/>gain, "<hi>wading over head and ears in ſnow, as high as their knees</hi>"—
 <q>
                         <floatingText xml:lang="unk">
@@ -887,7 +888,7 @@ a ſtory—Only hear me tell about our <hi>ſleighing frol<g ref="char:EOLhyphen
                                     <l>And we baniſh, huzza! we baniſh, huzza! and we baniſh the cares of tomorrow.</l>
                                  </lg>
                                  <lg>
-                                    <pb n="26" facs="tcp:021678_0025_0FB50F839C5E9A90"/>
+                                    <pb n="26" facs="unknown:021678_0025_0FB50F839C5E9A90"/>
                                     <head>III.</head>
                                     <l>When the turkey's roaſted brown,</l>
                                     <l>To the ſupper we ſit down,</l>
@@ -927,7 +928,7 @@ a ſtory—Only hear me tell about our <hi>ſleighing frol<g ref="char:EOLhyphen
                   <p>Bravo! bravo, <hi>Yorick</hi>! If you mean this in favour of your frolicking, you'll never catch me there. I wonder girls don't catch their deaths.</p>
                </sp>
                <sp>
-                  <pb n="27" facs="tcp:021678_0026_0FB50F84FA80D650"/>
+                  <pb n="27" facs="unknown:021678_0026_0FB50F84FA80D650"/>
                   <speaker>YORICK.</speaker>
                   <p>I ſuppoſe you need not turn over, without you're a mind to—but conſider the neceſſity of ſome amuſe<g ref="char:EOLhyphen"/>ment for ſuch a town as this—</p>
                </sp>
@@ -959,7 +960,7 @@ a ſtory—Only hear me tell about our <hi>ſleighing frol<g ref="char:EOLhyphen
                   <p>There are many good ſingers in town, and to deny It would be ſwimming againſt the ſtream of popular applauſe.</p>
                </sp>
                <sp>
-                  <pb n="28" facs="tcp:021678_0027_0FB50F878E50F678"/>
+                  <pb n="28" facs="unknown:021678_0027_0FB50F878E50F678"/>
                   <speaker>YORICK.</speaker>
                   <p>Granted—But what I complain of is, that there is nothing new for them to ſing—Muſt we be obliged to ſing <hi>Engliſh ſongs</hi> forever—I heard a perſon ſome evenings ſince ſing a ſong about <hi>Auld England's glory</hi>— what have <hi>Americans</hi> to do, in the name of <hi>Phebus,</hi> with "<hi>Auld England's glory?</hi>" So you ſee, my com<g ref="char:EOLhyphen"/>plaint is not without reaſon.</p>
                </sp>
@@ -974,7 +975,7 @@ a ſtory—Only hear me tell about our <hi>ſleighing frol<g ref="char:EOLhyphen
                <sp>
                   <speaker>SENTENTIOUS.</speaker>
                   <p>Every nation is undoubtedly characterized by their ſongs—They were anciently calculated to inſpire the minds of the people with great ideas of liberty and ſentiments of heroiſm. Even our American Indians have their war ſongs. Remember the effect of the ſongs of <hi>Oſſian.</hi> The <hi>Welſh</hi> bards were put to death by <hi>Edward</hi> I. when he conquered <hi>Wales,</hi> for the reaſon I have given, and through motives of policy. I have now by me "<hi>General Montgomery,"—"The Battle of the Kegs,"—"Frencau</hi>'s Poems,"—and many others which were favourites with the <hi>Conti<g ref="char:EOLhyphen"/>nental</hi>
-                     <pb n="29" facs="tcp:021678_0028_0FB50F88B12D7E28"/>
+                     <pb n="29" facs="unknown:021678_0028_0FB50F88B12D7E28"/>
 ſoldiers, and no doubt contributed as much to encourage them to endure hardſhips and perſevere in the ſtruggle, as <hi>paper money.</hi>
                   </p>
                </sp>
@@ -1011,7 +1012,7 @@ a ſtory—Only hear me tell about our <hi>ſleighing frol<g ref="char:EOLhyphen
                               <l>And owns it a very good SONG.</l>
                            </lg>
                            <lg>
-                              <pb n="30" facs="tcp:021678_0029_0FB50F8A7A101ED8"/>
+                              <pb n="30" facs="unknown:021678_0029_0FB50F8A7A101ED8"/>
                               <head>III.</head>
                               <l>Behold the <hi>mechanick,</hi> the federal lad</l>
                               <l>Who hopes that the Union is ſtrong;</l>
@@ -1056,7 +1057,7 @@ a ſtory—Only hear me tell about our <hi>ſleighing frol<g ref="char:EOLhyphen
                   </p>
                </sp>
                <sp>
-                  <pb n="31" facs="tcp:021678_0030_0FB50F9066CDAF70"/>
+                  <pb n="31" facs="unknown:021678_0030_0FB50F9066CDAF70"/>
                   <speaker>FLASH.</speaker>
                   <p>Step forward a little into the room, where we may be by ourſelves, and I will endeavour to convince you of the truth of my arguments.</p>
                </sp>
@@ -1085,7 +1086,7 @@ a ſtory—Only hear me tell about our <hi>ſleighing frol<g ref="char:EOLhyphen
                   <p>Explain yourſelf, Sir—that's an inſinuation derog<g ref="char:EOLhyphen"/>atory to the character of my nation—and I ſhall re<g ref="char:EOLunhyphen"/>ſent it, for I am —</p>
                </sp>
                <sp>
-                  <pb n="32" facs="tcp:021678_0031_0FB50F9476013200"/>
+                  <pb n="32" facs="unknown:021678_0031_0FB50F9476013200"/>
                   <speaker>YORICK.</speaker>
                   <p>
                      <hi>Who</hi> are you!—</p>
@@ -1126,14 +1127,14 @@ a ſtory—Only hear me tell about our <hi>ſleighing frol<g ref="char:EOLhyphen
                   </p>
                </sp>
                <sp>
-                  <pb n="33" facs="tcp:021678_0032_0FB50F956B3ACD90"/>
+                  <pb n="33" facs="unknown:021678_0032_0FB50F956B3ACD90"/>
                   <speaker>PETER.</speaker>
                   <p>Ha! ha! ha! That's a good come off, <hi>Yorick</hi>—I applaud you, my boy—you were carried too far in your country's cauſe by the high blood of youth—you ſwum out of your depth, buoyed by a pure federal principle—and were the generality of mankind as ready to make conceſſions as you are, we ſhould have none of your duels.</p>
                </sp>
                <sp>
                   <speaker>YORICK.</speaker>
                   <p>There I join you, Sir—I look upon all dueling, gaming and guzzling, and the like of that (excepting <hi>ſleighing frolicks</hi>) to be perfectly antifederal—and as to you, Capt. <hi>Flaſh,</hi> when I happened to ſay that the French did not take ſuch delight to miſrepreſent matters as the Engliſh, I conſidered the different in<g ref="char:EOLhyphen"/>tereſts of the two nations. It is for the glory of <hi>Great Britain,</hi> to depreciate the merit of <hi>America,</hi> that ſhe may appear unrivalled—the like as we may ſee in our manner of electioneering; for inſtance; a man wants to be a Rep. or a Congreſs man, he in the firſt place puts a piece in the <hi>Centinel,</hi> telling how and a<g ref="char:EOLhyphen"/>bout what a great man he is, with his name in a line of capital letters; but the cream of the jeſt is, that <hi>he takes care to black all the other candidates.</hi> A Frenchman, on the other hand, is a gentleman, and I love a Frenchman. We are under infinite obliga<g ref="char:EOLhyphen"/>tion to that generous nation, and he who utters a ſyl<g ref="char:EOLhyphen"/>lable diſreſpectful of our great ally, deſerves the ſever<g ref="char:EOLhyphen"/>eſt
-<pb n="34" facs="tcp:021678_0033_0FB50F9709BA3C00"/>
+<pb n="34" facs="unknown:021678_0033_0FB50F9709BA3C00"/>
 puniſhment that can be inflicted—the puniſhment of ingratitude.</p>
                </sp>
                <sp>
@@ -1165,7 +1166,7 @@ puniſhment that can be inflicted—the puniſhment of ingratitude.</p>
                   </p>
                </sp>
                <sp>
-                  <pb n="35" facs="tcp:021678_0034_0FB50F9867FC57E8"/>
+                  <pb n="35" facs="unknown:021678_0034_0FB50F9867FC57E8"/>
                   <speaker>YORICK.</speaker>
                   <p>No, no, I mean that King George is dead.</p>
                </sp>
@@ -1213,7 +1214,7 @@ puniſhment that can be inflicted—the puniſhment of ingratitude.</p>
                                  <l>"That levels high and low."</l>
                               </lg>
                               <lg>
-                                 <pb n="36" facs="tcp:021678_0035_0FB50FA153F29140"/>
+                                 <pb n="36" facs="unknown:021678_0035_0FB50FA153F29140"/>
                                  <head>VI.</head>
                                  <l>Then fill the bumber, ſerve the wine,</l>
                                  <l>And bring the bottles forth,</l>
@@ -1248,7 +1249,7 @@ puniſhment that can be inflicted—the puniſhment of ingratitude.</p>
 which you admire, and which, give me leave to add, is worthy your admiration and imitation.</p>
                </sp>
                <sp>
-                  <pb n="37" facs="tcp:021678_0036_0FB50FA2EB8795D0"/>
+                  <pb n="37" facs="unknown:021678_0036_0FB50FA2EB8795D0"/>
                   <speaker>MRS. SENTENTIOUS.</speaker>
                   <p>Sir, I never deſcend to definitions—the "better ſort" ſay, that whatever comes from England is beſt, and ſo I aſſent to what the better ſort ſay.</p>
                </sp>
@@ -1297,7 +1298,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                   <p>Yes, Sir—</p>
                </sp>
                <sp>
-                  <pb n="38" facs="tcp:021678_0037_0FB50FA4B5B64A38"/>
+                  <pb n="38" facs="unknown:021678_0037_0FB50FA4B5B64A38"/>
                   <speaker>FLASH.</speaker>
                   <p>You are a lady of ſuch exquiſite good breeding that you contradict nothing I ſay—</p>
                </sp>
@@ -1350,7 +1351,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                   </p>
                </sp>
                <stage>
-                  <pb n="39" facs="tcp:021678_0038_0FB50FA62ED4D888"/>
+                  <pb n="39" facs="unknown:021678_0038_0FB50FA62ED4D888"/>
                   <hi>Enter</hi> ALONZO HAZARD, MR. SENTENTIOUS, <hi>and</hi> HARRY.</stage>
                <sp>
                   <speaker>MRS. SENTENTIOUS.</speaker>
@@ -1389,7 +1390,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                   <p>Very chimerical <hi>heirſhips</hi> theſe—nothing to be got by them, therefore I think you had better teach them that <hi>two and two make four.</hi>
                   </p>
                   <q>
-                     <pb n="40" facs="tcp:021678_0039_0FB50FA82AE844A8"/>
+                     <pb n="40" facs="unknown:021678_0039_0FB50FA82AE844A8"/>
                      <floatingText xml:lang="unk">
                         <body>
                            <div type="song">
@@ -1443,7 +1444,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                                  <l>In making your fortune be never too late,</l>
                                  <l>Life's thread may be cut by the ſciſſors of fate:</l>
                                  <l>
-                                    <pb n="41" facs="tcp:021678_0040_0FB50FAA64A0C908"/>Though the ſource of your riches folks cannot divine,</l>
+                                    <pb n="41" facs="unknown:021678_0040_0FB50FAA64A0C908"/>Though the ſource of your riches folks cannot divine,</l>
                                  <l>Let your impudence teach you the method to ſhine:</l>
                                  <l>Get drunk, gamble high, and mark my tuition,</l>
                                  <l>And away you climb up to a <hi>Captain</hi>'s commiſſion.</l>
@@ -1493,7 +1494,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                   </q>
                </sp>
                <sp>
-                  <pb n="42" facs="tcp:021678_0041_0FB50FAB2C07CA20"/>
+                  <pb n="42" facs="unknown:021678_0041_0FB50FAB2C07CA20"/>
                   <speaker>HARRY.</speaker>
                   <p>Gentlemen, I beg leave to differ from you all—I flatter myſelf, I poſſeſs as much of the <hi>wiſdom</hi> of <hi>Mr. Hazard,</hi> as not to be cheated—as much of <hi>Mr. Sen<g ref="char:EOLhyphen"/>tentious,</hi> as not to be negligent in the relative duties, and as much of the <hi>Captain Flaſh,</hi> as will furniſh me at any time with an anſwer for <hi>one of his order.</hi>
                   </p>
@@ -1539,7 +1540,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                   <p>I preſume your good father has acquainted you with his intention of beſtowing upon me your fair hand.</p>
                </sp>
                <sp>
-                  <pb n="43" facs="tcp:021678_0042_0FB50FB15FBF74E8"/>
+                  <pb n="43" facs="unknown:021678_0042_0FB50FB15FBF74E8"/>
                   <speaker>MIRA.</speaker>
                   <p>He has: It may be in his power to beſtow my <hi>hand,</hi> but remember, my <hi>heart</hi> is at my own diſpoſal.</p>
                </sp>
@@ -1583,7 +1584,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                                  </l>
                               </lg>
                               <lg>
-                                 <pb n="44" facs="tcp:021678_0043_0FB50FB2B1362CD0"/>
+                                 <pb n="44" facs="unknown:021678_0043_0FB50FB2B1362CD0"/>
                                  <head>II.</head>
                                  <l>Tho' he ſigh, and he chatter and tenderly look,</l>
                                  <l>He ne'er lets her know what his wiſh is:</l>
@@ -1644,7 +1645,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                   </p>
                </sp>
                <sp>
-                  <pb n="45" facs="tcp:021678_0044_0FB50FB4F498E3B8"/>
+                  <pb n="45" facs="unknown:021678_0044_0FB50FB4F498E3B8"/>
                   <speaker>MIRA</speaker>
                   <stage>alone.</stage>
                   <p>Sir, Yours,
@@ -1691,7 +1692,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                </sp>
             </div>
             <div n="9" type="scene">
-               <pb n="46" facs="tcp:021678_0045_0FB50FB673846E48"/>
+               <pb n="46" facs="unknown:021678_0045_0FB50FB673846E48"/>
                <head>SCENE IX.</head>
                <stage>
                   <hi>Enter</hi> HARRY.</stage>
@@ -1725,7 +1726,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                   <p>Your father then took me cordially by the hand, and begged leave to congratulate me on my good fortune.</p>
                </sp>
                <sp>
-                  <pb n="47" facs="tcp:021678_0046_0FB50FBA88F44068"/>
+                  <pb n="47" facs="unknown:021678_0046_0FB50FBA88F44068"/>
                   <speaker>MIRA.</speaker>
                   <p>You ſurprize me!—what fortune?</p>
                </sp>
@@ -1760,7 +1761,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                   </p>
                </sp>
                <sp>
-                  <pb n="48" facs="tcp:021678_0047_0FB50FBBA98F9660"/>
+                  <pb n="48" facs="unknown:021678_0047_0FB50FBBA98F9660"/>
                   <speaker>MRS. SENTENTIOUS.</speaker>
                   <p>I am extremely happy that ſuch an <hi>eclairciſſement</hi> ſhould happen in my houſe—One who has contribut<g ref="char:EOLhyphen"/>ed in the leaſt to the happineſs of <hi>any</hi> perſon, may hold up her head with the <hi>better ſort.</hi>
                   </p>
@@ -1808,7 +1809,7 @@ Allowing, Madam, for a little diſſimulation—</p>
             </div>
          </div>
          <div type="epilogue">
-            <pb facs="tcp:021678_0048_0FB50FC0758B4680"/>
+            <pb facs="unknown:021678_0048_0FB50FC0758B4680"/>
             <head>EPILOGUE. THE PRINTERS TO THE PUBLICK.</head>
             <lg>
                <l>WE told our author that to be in vogue,</l>
@@ -1843,7 +1844,7 @@ Allowing, Madam, for a little diſſimulation—</p>
                <l>We dare you all to toaſt—"<hi>The Girl of Spirit.</hi>"</l>
             </lg>
             <lg>
-               <pb n="50" facs="tcp:021678_0049_0FB50FC3074947B8"/>
+               <pb n="50" facs="unknown:021678_0049_0FB50FC3074947B8"/>
                <l>Dear, rev'rend CRITICKS, muſt we then conclude</l>
                <l>Without a word to you? we're not ſo rude—</l>
                <l>We ſought the <hi>bard</hi>—"a Farce, a Farce," we ſaid—</l>
@@ -1882,7 +1883,7 @@ Allowing, Madam, for a little diſſimulation—</p>
             </lg>
          </div>
          <div type="index_of_songs">
-            <pb facs="tcp:021678_0050_0FB50FC3F5455FF8"/>
+            <pb facs="unknown:021678_0050_0FB50FC3F5455FF8"/>
             <head>AIRS, SONGS, DUETS, &amp;c.</head>
             <list>
                <item>I. If you have a ſmart wife, 11</item>
